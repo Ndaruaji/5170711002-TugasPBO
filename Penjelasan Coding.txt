@@ -1,0 +1,9 @@
+Nama : Ndaru Aji Penangsang
+NIM : 5170711002
+
+Penjelasan
+Class pbo7 sebagai Main Class dari project pewarisan,,kemudian terdapat induk Class yang diberi nama Manusia.Class manusia
+inilah sebagai induk Class yang nantinya akan mewariskan sifat-sifatnya ke anak Class nya.Anak Class di project ini diberi
+nama Mirip,,hanya dengan memanggil anak kelas Mirip maka sifat-sifat dari induk Class yaitu Manusia secara otomatis akan
+diwariskan ke anak kelas Mirip,, Kemudian fungsi overriding berfungsi untuk mengganti isi fungsi yang sama dari kelas yang
+berbeda dalam satu package,, Kemudian fungsi dari protected hanya bisa dipanggil oleh kelas yang sama dalam satu package
